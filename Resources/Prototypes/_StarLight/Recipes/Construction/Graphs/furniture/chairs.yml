@@ -1,0 +1,31 @@
+# HL - Make the sleek office chair craftable
+- type: constructionGraph
+  id: Seats
+  start: start
+  graph:
+    - node: start
+      actions:
+        - !type:DestroyEntity {}
+      edges:
+        - to: sleekOfficeChair
+          steps:
+            - material: Steel
+              amount: 1
+              doAfter: 1
+            - material: Cloth
+              amount: 2
+
+    - node: sleekOfficeChair
+      entity: ChairOfficeSleek
+      edges:
+        - to: start
+          completed:
+            - !type:SpawnPrototype
+              prototype: SheetSteel1
+              amount: 1
+            - !type:SpawnPrototype
+              prototype: MaterialCloth1
+              amount: 2
+          steps:
+            - tool: Screwing
+              doAfter: 1

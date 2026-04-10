@@ -1,0 +1,12 @@
+# HL - Make the sleek office chair craftable
+- type: construction
+  id: SleekOfficeChair
+  graph: Seats
+  startNode: start
+  targetNode: sleekOfficeChair
+  category: construction-category-furniture
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked
