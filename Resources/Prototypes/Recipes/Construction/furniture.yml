@@ -71,17 +71,18 @@
   conditions:
     - !type:TileNotBlocked
 
-- type: construction
-  id: ChairComfy
-  graph: Seat
-  startNode: start
-  targetNode: chairComfy
-  category: construction-category-furniture
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
+# HL - Consolidate Comfy Chair Recipes Together
+#- type: construction
+#  id: ChairComfy
+#  graph: Seat
+#  startNode: start
+#  targetNode: chairComfy
+#  category: construction-category-furniture
+#  objectType: Structure
+#  placementMode: SnapgridCenter
+#  canBuildInImpassable: false
+#  conditions:
+#    - !type:TileNotBlocked
 
 - type: construction
   id: chairPilotSeat
