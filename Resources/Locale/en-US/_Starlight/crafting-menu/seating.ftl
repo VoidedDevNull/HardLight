@@ -34,3 +34,41 @@ chair-comfy-blue = Comfy Chair (Blue)
 chair-comfy-red = Comfy Chair (Red)
 chair-comfy-green = Comfy Chair (Green)
 chair-comfy-brown = Comfy Chair (Brown)
+
+diner-bench-left = Diner Booth (Left)
+diner-bench-right = Diner Booth (Right)
+diner-bench-middle = Diner Booth (Middle)
+
+fancy-sofa-right = Fancy Sofa (Right)
+fancy-sofa-left = Fancy Sofa (Left)
+fancy-sofa-middle = Fancy Sofa (Middle)
+
+sofa-gray-corner = Sofa (Gray, Corner)
+sofa-gray-left = Sofa (Gray, Left)
+sofa-gray-right = Sofa (Gray, Right)
+sofa-gray-middle = Sofa (Gray, Middle)
+
+sofa-blue-corner = Sofa (Blue, Corner)
+sofa-blue-left = Sofa (Blue, Left)
+sofa-blue-right = Sofa (Blue, Right)
+sofa-blue-middle = Sofa (Blue, Middle)
+
+sofa-green-corner = Sofa (Green, Corner)
+sofa-green-left = Sofa (Green, Left)
+sofa-green-right = Sofa (Green, Right)
+sofa-green-middle = Sofa (Green, Middle)
+
+sofa-brown-corner = Sofa (Brown, Corner)
+sofa-brown-left = Sofa (Brown, Left)
+sofa-brown-right = Sofa (Brown, Right)
+sofa-brown-middle = Sofa (Brown, Middle)
+
+sofa-red-corner = Sofa (Red, Corner)
+sofa-red-left = Sofa (Red, Left)
+sofa-red-right = Sofa (Red, Right)
+sofa-red-middle = Sofa (Red, Middle)
+
+sofa-white-corner = Sofa (White, Corner)
+sofa-white-left = Sofa (White, Left)
+sofa-white-right = Sofa (White, Right)
+sofa-white-middle = Sofa (White, Middle)
