@@ -20,7 +20,7 @@
   category: construction-category-furniture
   objectType: Structure
   placementMode: SnapgridCenter
-  canBuildInImpasable: false
+  canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
 
@@ -33,7 +33,7 @@
   category: construction-category-furniture
   objectType: Structure
   placementMode: SnapgridCenter
-  canBuildInImpasable: false
+  canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
 
@@ -46,7 +46,7 @@
   category: construction-category-furniture
   objectType: Structure
   placementMode: SnapgridCenter
-  canBuildInImpasable: false
+  canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
 
@@ -59,7 +59,7 @@
   category: construction-category-furniture
   objectType: Structure
   placementMode: SnapgridCenter
-  canBuildInImpasable: false
+  canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
 
@@ -72,7 +72,7 @@
   category: construction-category-furniture
   objectType: Structure
   placementMode: SnapgridCenter
-  canBuildInImpasable: false
+  canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
 
@@ -85,6 +85,6 @@
   category: construction-category-furniture
   objectType: Structure
   placementMode: SnapgridCenter
-  canBuildInImpasable: false
+  canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
